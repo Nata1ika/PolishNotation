@@ -1,0 +1,6 @@
+c:\users\nata1ika\documents\visual studio 2015\Projects\СalculatorGuliaeva\СalculatorGuliaeva\bin\Debug\СalculatorGuliaeva.exe.config
+c:\users\nata1ika\documents\visual studio 2015\Projects\СalculatorGuliaeva\СalculatorGuliaeva\obj\Debug\СalculatorGuliaeva.csprojResolveAssemblyReference.cache
+c:\users\nata1ika\documents\visual studio 2015\Projects\СalculatorGuliaeva\СalculatorGuliaeva\bin\Debug\СalculatorGuliaeva.exe
+c:\users\nata1ika\documents\visual studio 2015\Projects\СalculatorGuliaeva\СalculatorGuliaeva\bin\Debug\СalculatorGuliaeva.pdb
+c:\users\nata1ika\documents\visual studio 2015\Projects\СalculatorGuliaeva\СalculatorGuliaeva\obj\Debug\СalculatorGuliaeva.exe
+c:\users\nata1ika\documents\visual studio 2015\Projects\СalculatorGuliaeva\СalculatorGuliaeva\obj\Debug\СalculatorGuliaeva.pdb
